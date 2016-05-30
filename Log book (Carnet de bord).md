@@ -2,7 +2,7 @@
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_PUz5Rhc26pE_p.109820_1463411821588_LogDAISEE.jpg)
 
-This work is shared under the following Creative Commons Licence / Ce(tte) Suvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Pas dUtilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). However, all the work linked to this work is accessible and shared through their specific licensing right.
+This work is shared under the following Creative Commons Licence / Ce(tte) Suvre est mise Ã  disposition selon les termes de la [Licence Creative Commons Attribution - Pas dUtilisation Commerciale - Partage dans les MÃªmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). However, all the work linked to this work is accessible and shared through their specific licensing right.
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_HzrGPxhG5Ep_p.109820_1459503777481_licence-cc-by-nc-sa.png)
 
@@ -12,7 +12,7 @@ You'll find:
 
 *   the LOG BOOK (Carnet de bord) of he DAISEE Project
 
-**PAD Général: [InternetS of Energy IsOE Call me DAISEE: Steps](/HzrGPxhG5Ep#:h=Steps)**
+**PAD GÃ©nÃ©ral: [InternetS of Energy IsOE Call me DAISEE: Steps](/HzrGPxhG5Ep#:h=Steps)**
 
 ## 2016-05-19: #ouisharefest 2016, discussion with some blockchain/ethereum intimates
 
@@ -24,7 +24,7 @@ Building up the community around the #DAISEE project.
 
 Founder London, UK, [ethcore.io](http://ethcore.io/)
 
-_Before founding Ethcore, Dr. Gavin Wood was the Chief Technology Officer and co­founder of the Ethereum Project. During his time with the project, he co-­designed, formalised and implemented the Ethereum Protocol, created the Whisper protocol and devised the DEVp2p network protocol, the Solidity programming language and Mix IDE. Prior to Ethereum, he pushed the state-­of­-the-­art in video synthesis tools, audio analysis software and programming paradigms, as well as co-­founding several technology start­ups. Dr. Wood has given seminars and presented to numerous audiences around the world from keynotes at regional technology conferences to musings about the future of legal systems. He coined the terms 'web three' and 'allegality'. _**Booting the shadow aristocracy.**
+_Before founding Ethcore, Dr. Gavin Wood was the Chief Technology Officer and coÂ­founder of the Ethereum Project. During his time with the project, he co-Â­designed, formalised and implemented the Ethereum Protocol, created the Whisper protocol and devised the DEVp2p network protocol, the Solidity programming language and Mix IDE. Prior to Ethereum, he pushed the state-Â­ofÂ­-the-Â­art in video synthesis tools, audio analysis software and programming paradigms, as well as co-Â­founding several technology startÂ­ups. Dr. Wood has given seminars and presented to numerous audiences around the world from keynotes at regional technology conferences to musings about the future of legal systems. He coined the terms 'web three' and 'allegality'. _**Booting the shadow aristocracy.**
 
 [](http://sched.co/6hbX)[http://sched.co/6hbX](http://sched.co/6hbX)
 
@@ -38,7 +38,7 @@ Related PAD: [Hackathon compteurconnect DAISEE](/puqF6EmgG8s)
 
 ## 2016-05-15: DAISEE Hackaday organisation workshop
 
-**Où**
+**OÃ¹**
 
 A la Myne
 
@@ -58,11 +58,11 @@ Sam
 
 **Comment**
 
-Étapes de la réunion : 
+Ã‰tapes de la rÃ©union : 
 
-*   Création des avatars : Dessiner un drôle de bidule et lui donner un nom. Au dos se trouve la description de notre avatar (nous) : Nos compétences, ce que va nous apporter DAISEE, le type d'équipier que nous sommes, qu'elles sont nos ressources (temps/matos/etc)
+*   CrÃ©ation des avatars : Dessiner un drÃ´le de bidule et lui donner un nom. Au dos se trouve la description de notre avatar (nous) : Nos compÃ©tences, ce que va nous apporter DAISEE, le type d'Ã©quipier que nous sommes, qu'elles sont nos ressources (temps/matos/etc)
 *   Explication de DAISEE par [RIeul](https://hackpad.com/ep/profile/oxxrkxoiPzW) 
-*   On se projette dans 3 ans : Ecrire tout ce qu'il nous passe par la tête sur la vision que l'on a de DAISEE dans 3ans. Puis mise en commun, puis maquette avec des légos/figurines/pate à modeler : 
+*   On se projette dans 3 ans : Ecrire tout ce qu'il nous passe par la tÃªte sur la vision que l'on a de DAISEE dans 3ans. Puis mise en commun, puis maquette avec des lÃ©gos/figurines/pate Ã  modeler : 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ldL8yFyYtyi_p.597356_1463476118525_20160515_122136_720.jpg)
 
@@ -70,15 +70,15 @@ Sam
 
 Puis [RIeul](https://hackpad.com/ep/profile/oxxrkxoiPzW) nous a fait un chouette StoryPlay pour expliquer le pourquoi du comment : 
 
-*   Vision 5 mois : 1 post-it / chose à faire et répartition sur une timeline.
+*   Vision 5 mois : 1 post-it / chose Ã  faire et rÃ©partition sur une timeline.
 
-*   Rajout des étapes du concours Hackaday. Puis post-it (flèches) vert = Qui / jaune = quoi pour la répartition des tâches et les disponibilités de chacun : 
+*   Rajout des Ã©tapes du concours Hackaday. Puis post-it (flÃ¨ches) vert = Qui / jaune = quoi pour la rÃ©partition des tÃ¢ches et les disponibilitÃ©s de chacun : 
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ldL8yFyYtyi_p.597356_1463476523151_20160515_124504_720.jpg)
 
-Tout trié ça ressemble à ça : ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ldL8yFyYtyi_p.597356_1463476943156_IMG_8876.JPG)![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ldL8yFyYtyi_p.597356_1463476943289_IMG_8877.JPG)
+Tout triÃ© Ã§a ressemble Ã  Ã§a : ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ldL8yFyYtyi_p.597356_1463476943156_IMG_8876.JPG)![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_ldL8yFyYtyi_p.597356_1463476943289_IMG_8877.JPG)
 
-(En vrai à la Myne)
+(En vrai Ã  la Myne)
 
 **Some storytelling**
 
@@ -182,8 +182,8 @@ Tout trié ça ressemble à ça : ![](https://hackpad-attachments.s3.amazonaws.com/h
 
 ## 2016-04-05/06 - TinyTiliosCamp event at Saint-Etienne (France). 
 
-*   Meeting with local people (designers, techs...) who are working on mobility, energy... to define how we can work together and the development priorities. This has been possible through connection with OpenFactory and the Cité du Design - they worked deeply on smart-grids.
-*   Cooperation with the Cité du Design and OpenFactory is on the way on this project, particularly within the scope of the Biennale 2017.
+*   Meeting with local people (designers, techs...) who are working on mobility, energy... to define how we can work together and the development priorities. This has been possible through connection with OpenFactory and the CitÃ© du Design - they worked deeply on smart-grids.
+*   Cooperation with the CitÃ© du Design and OpenFactory is on the way on this project, particularly within the scope of the Biennale 2017.
 
 ## 2016-04-02/05 - Cellabz NYC Blockchain Energy WoSh
 
